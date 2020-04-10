@@ -1,0 +1,24 @@
+{
+  "name": "svelte-parcel-template",
+  "version": "1.0.0",
+  "description": "Svelte Parcel Template with SCSS support and Jest test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grilloz/svelte-parcel-template.git"
+  },
+  "keywords": [
+    "svelte",
+    "parcel",
+    "jest"
+  ],
+  "author": "grilloz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Grilloz/svelte-parcel-template/issues"
+  },
+  "homepage": "https://github.com/Grilloz/svelte-parcel-template#readme"
+}
