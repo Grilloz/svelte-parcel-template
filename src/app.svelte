@@ -2,13 +2,13 @@
   export let name;
 </script>
 
-<style>
-
+<style lang="scss">
+  $my-color: red;
   h1 {
     text-align: center;
   }
   span {
-    color: green;
+    color: $my-color;
   }
 </style>
 
