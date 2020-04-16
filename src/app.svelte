@@ -3,7 +3,7 @@
 </script>
 
 <style>
-  //$color: red;
+
   h1 {
     text-align: center;
   }
