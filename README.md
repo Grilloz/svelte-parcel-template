@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Grilloz/svelte-parcel-template) 
+
 # svelte-parcel-template
 Svelte Parcel Template with SCSS support and Jest test
 
