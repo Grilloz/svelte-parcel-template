@@ -26,4 +26,6 @@ The preprocessor module installation is up to the developer.
 Note: If you want to load your postcss configuration from a external file, make sure to also install postcss-load-config.
 
 ## JEST Test
+[jest](https://jestjs.io/en/)
 [svelte-jester](https://github.com/mihar-22/svelte-jester)
+[testing library](https://testing-library.com/docs/svelte-testing-library/intro)
